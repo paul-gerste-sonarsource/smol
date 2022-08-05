@@ -1,0 +1,2 @@
+# smol
+A small repo.
